@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="slx_primary">#223C69</color>
+    <color name="slx_primary_dark">#1B3156</color>
+    <color name="slx_secondary">#23B4B6</color>
+    <color name="slx_bg">#F2F2F2</color>
+    <color name="slx_surface">#FFFFFF</color>
+    <color name="slx_text_main">#1A1A1A</color>
+    <color name="slx_text_sub">#5E6572</color>
+    <color name="slx_success">#2E7D32</color>
+    <color name="slx_error">#C62828</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
